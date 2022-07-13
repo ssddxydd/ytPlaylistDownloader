@@ -1,0 +1,10 @@
+<component name="libraryTable">
+    <library name="jna-5.8.0.jar">
+        <CLASSES>
+            <root url="jar://$PROJECT_DIR$/../../AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar!/"/>
+        </CLASSES>
+        <SOURCES>
+            <root url="jar://$PROJECT_DIR$/../../AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.8.0/jna-5.8.0-sources.jar!/"/>
+        </SOURCES>
+    </library>
+</component>

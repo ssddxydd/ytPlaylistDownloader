@@ -1,0 +1,11 @@
+{
+    "value": [
+        "qref:6809d0d2:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.8\\scala-compiler-2.13.8.jar",
+        "qref:8b2d36e4:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.8\\scala-reflect-2.13.8.jar",
+        "qref:19a6c865:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.8\\scala-library-2.13.8.jar",
+        "qref:d49c51e9:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.21.0\\jline-3.21.0.jar",
+        "qref:d689b6ff:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.9.0\\jna-5.9.0.jar"
+    ],
+    "valueHash": -1207707389,
+    "inputsHash": -101897967
+}

@@ -1,0 +1,24 @@
+{
+    "value": [
+        "qref:19a6c865:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.8\\scala-library-2.13.8.jar",
+        "qref:bc421216:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalactic\\scalactic_2.13\\3.1.1\\scalactic_2.13-3.1.1.jar",
+        "qref:6ec21cc9:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalatest\\scalatest_2.13\\3.1.1\\scalatest_2.13-3.1.1.jar",
+        "qref:e2085570:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jsoup\\jsoup\\1.11.2\\jsoup-1.11.2.jar",
+        "qref:c1d12bf5:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\apis\\google-api-services-youtube\\v3-rev174-1.22.0\\google-api-services-youtube-v3-rev174-1.22.0.jar",
+        "qref:8b2d36e4:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.8\\scala-reflect-2.13.8.jar",
+        "qref:3af9aa63:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-xml_2.13\\1.2.0\\scala-xml_2.13-1.2.0.jar",
+        "qref:f45b5172:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\api-client\\google-api-client\\1.22.0\\google-api-client-1.22.0.jar",
+        "qref:ae4d9d2b:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\oauth-client\\google-oauth-client\\1.22.0\\google-oauth-client-1.22.0.jar",
+        "qref:53328df1:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\http-client\\google-http-client-jackson2\\1.22.0\\google-http-client-jackson2-1.22.0.jar",
+        "qref:18de59ee:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\guava\\guava-jdk5\\17.0\\guava-jdk5-17.0.jar",
+        "qref:2c96f24c:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\http-client\\google-http-client\\1.22.0\\google-http-client-1.22.0.jar",
+        "qref:fb725fe7:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\code\\findbugs\\jsr305\\1.3.9\\jsr305-1.3.9.jar",
+        "qref:338e594b:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\fasterxml\\jackson\\core\\jackson-core\\2.1.3\\jackson-core-2.1.3.jar",
+        "qref:c5058ae6:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\httpcomponents\\httpclient\\4.0.1\\httpclient-4.0.1.jar",
+        "qref:460499d8:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\httpcomponents\\httpcore\\4.0.1\\httpcore-4.0.1.jar",
+        "qref:9fdab582:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar",
+        "qref:ae6c2d3a:C:\\Users\\tycja\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\commons-codec\\commons-codec\\1.3\\commons-codec-1.3.jar"
+    ],
+    "valueHash": 1917707108,
+    "inputsHash": -1824665578
+}
